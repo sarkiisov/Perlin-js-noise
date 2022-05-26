@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "es6",
+      "sourceMap": true,
+      "removeComments": true,
+      "outDir": "../js/"
+    },
+    "include": [
+        "**/*"
+    ],
+}
